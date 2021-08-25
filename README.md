@@ -2,10 +2,10 @@
 
 This app lets you chat with another person or other people.
 
-** Screen Shots**
-![Screen shot of Drink Water app](https://github.com/yukoliesh/chat-app/blob/master/screenshot__chat-app_receiver.png?raw=true)
+**Screen Shots**
+![Screen shot of Chat app](https://github.com/yukoliesh/chat-app/blob/main/screenshot__chat-app_receiver.png?raw=true)
 
-![Screen shot of Drink Water app](https://github.com/yukoliesh/chat-app/blob/master/screenshot__chat-app_sender.png?raw=true)
+![Screen shot of Chat app](https://github.com/yukoliesh/chat-app/blob/main/screenshot__chat-app_sender.png?raw=true)
 
 ## Main Tech Stacks I used
 
