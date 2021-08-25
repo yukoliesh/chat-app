@@ -1,0 +1,14 @@
+{
+  "name": "message-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "graphql-iso-date": "^3.6.1",
+    "graphql-yoga": "^1.18.3",
+    "prop-types": "^15.7.2"
+  }
+}
