@@ -3,9 +3,9 @@
 This app lets you chat with another person or other people.
 
 **Screen Shots**
-![Screen shot of Chat app](https://github.com/yukoliesh/chat-app/blob/main/screenshot__chat-app_sender.png?raw=true | width=450)
+![Screen shot of Chat app](https://github.com/yukoliesh/chat-app/blob/main/screenshot__chat-app_sender.png?raw=true&s=450)
 
-![Screen shot of Chat app](https://github.com/yukoliesh/chat-app/blob/main/screenshot__chat-app_receiver.png?raw=true | width=450)
+![Screen shot of Chat app](https://github.com/yukoliesh/chat-app/blob/main/screenshot__chat-app_receiver.png?raw=true){:width="450px"}
 
 ## Main Tech Stacks I used
 
