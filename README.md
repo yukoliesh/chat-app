@@ -19,13 +19,8 @@ This app lets you chat with another person or other people.
 
 Please open two terminals - one for `server`, one for `client` and then... run the following.
 
-1. `cd server`
-2. `yarn install`
-3. `yarn start`
-
-4. `cd client`
-5. `yarn install`
-6. `yarn start`
+1. `yarn install`
+2. `yarn start`
 
 ## For server side
 
